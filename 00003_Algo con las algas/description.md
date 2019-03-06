@@ -1,6 +1,7 @@
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-funciones-kids/master/assets/attires/config_1551902332080.json"></gs-attire>
 
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-funciones-kids/master/assets/toolbox_1551901655763.xml"></gs-toolbox>
+
  
 En el ejercicio anterior vimos que hay nuevos bloques que sirven para construir _expresiones_ de cosas que en Gobstones no existen. Y lo mejor es que las podemos usar como un valor :smile:. Veamos qué otras expresiones podemos construir. :eyes:
 

@@ -1,0 +1,1 @@
+Para poder usar `cantidad de kril` podés apretar la manito :fist: que está al lado del nombre.
