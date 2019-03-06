@@ -4,5 +4,5 @@ expectations:
   binding: NadarSinParar
   inspection: UsesIf
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: Poner
+  binding: Poner_
   inspection: Uses:tiburon
