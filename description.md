@@ -2,4 +2,4 @@ Dani, estudiante de biología, está investigando cómo se pueden conservar y pr
 
 Para esto, necesitaremos algunas herramientas que usamos bastante pero de las que nunca hablamos :no_mouth: las condiciones y algunas expresiones.
 
-¡Naveguemos un poco estos conceptos en las misteriosas aguas de la vida acuática! :boat::ocean:
+¡Naveguemos un poco estos conceptos en las misteriosas aguas de la vida acuática! :ocean::boat:
