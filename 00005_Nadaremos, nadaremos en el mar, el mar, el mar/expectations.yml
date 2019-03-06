@@ -6,3 +6,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: NadarSinParar
   inspection: Uses:tiburon
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: NadarSinParar.Poner
+  inspection: Uses:tiburon
