@@ -1,0 +1,9 @@
+check_head_position: true
+examples:
+ - title: '¡BOOM!'
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 1 Azul 1
+     head 1 0
+   error: out_of_board
