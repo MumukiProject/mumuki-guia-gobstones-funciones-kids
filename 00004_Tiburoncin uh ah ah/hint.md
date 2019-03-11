@@ -1,0 +1,1 @@
+Ya te dejamos una parte de `cantidad de seres marinos` resuelta. Solo falta sumar a los tiburones. Para usar una función, tocá sobre la manito que creará el bloque correspondiente
