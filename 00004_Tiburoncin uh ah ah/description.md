@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-funciones-kids/master/assets/attires/config_1551902332080.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-funciones-kids/master/assets/attires/config_1552412300015.json"></gs-attire>
 
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-funciones-kids/master/assets/toolbox_1551901655763.xml"></gs-toolbox>
 
