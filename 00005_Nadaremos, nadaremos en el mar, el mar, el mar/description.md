@@ -6,4 +6,4 @@ Tenemos listo el equipo de buzo para ir a nadar con los tiburones :swimmer:. Alg
 
 ¡Así que, sigámosle el ritmo para no perderlos de vista!
 
-> Definí el procedimiento `Nadar sin parar` que, `si` se `puede mover al Este`, `saque` al tiburón, se `mueva al Este` y lo vuelva a `poner`. Si no, que lo haga al `Oeste`.
+> Definí el procedimiento `Nadar sin parar` que, `si` se `puede mover al Este`, `saque` al tiburón, se `mueva al Este` y lo vuelva a `poner`. `Si no`, que lo haga al `Oeste`.
